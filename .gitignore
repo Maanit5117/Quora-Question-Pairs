@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large dataset files & archives
+*.csv
+*.csv.zip
+quora-question-pairs.zip
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE and OS
+.DS_Store
+.idea/
+.vscode/
+.ipynb_checkpoints/
